@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil 👋
 
-Etudiant en 3ème à l'ESGI spécialité sécurité informatique
+Etudiant en 4ème à l'ESGI spécialité sécurité informatique
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo78450)](https://github.com/anuraghazra/github-readme-stats)
 
