@@ -2,7 +2,7 @@
 
 Etudiant en 4ème à l'ESGI spécialité sécurité informatique
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo78450)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4meleo)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,py,bash,c,php,git,mysql,go)](https://skillicons.dev)
 <!--
